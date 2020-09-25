@@ -18,4 +18,4 @@ Para o desenvolvimento da aplicação foram utilizado seguintes tecnologias e fe
 **username :** Define o usuário do banco de dados.
 **password :**  Define a senha do banco de dados.
 **database :** Define a nome da Banco a ser utlizado. 
-- Com tudo configurado corretamente você já pode execuatr o servidor “npm start”
+- Com tudo configurado corretamente você já pode execuatr o servidor **“npm start”**
