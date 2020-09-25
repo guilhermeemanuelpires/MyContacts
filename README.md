@@ -1,6 +1,6 @@
 # Meus Contatos
 Para o desenvolvimento da aplicação foram utilizado seguintes tecnologias e ferramentas.
-### Banco de Dados
+### Backend
 - Node js
 - Express
 - TypeOrm
