@@ -1,7 +1,7 @@
-# Meus Contatos
 ## About 🧾
 Projeto desenvolvido para demonstrar o conhecimento nas tecnologias abordadas.O projeto MyContacts consiste em um pequeno cadastro de contatos, onde temos um cabeçalho que define as informações básicas da pessoa, como nome e sobrenome, em seguida temos o detalhe do cabeçalho, onde adicionamos os respectivos contatos, sejam telefone, e-mail e etc.
 
+# My Contacts
 Para o desenvolvimento da aplicação foram utilizado seguintes tecnologias e ferramentas.
 #### Backend
 - Node js
